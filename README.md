@@ -1,2 +1,1 @@
-# webuni-ios
-Webuni - iOS demo projects
+Cubix - iOS demo projects
